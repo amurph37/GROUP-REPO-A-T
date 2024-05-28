@@ -1,4 +1,4 @@
 git merge allows you to incorparte master changes into your feature branch. 
 git checkout - lets you be in another branch.
 git commit allows you to save the changes to the file
-
+git pull- pulls changes from remote to local.
