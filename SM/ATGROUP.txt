@@ -1,1 +1,2 @@
 git merge allows you to incorparte master changes into your feature branch. 
+git checkout - lets you be in another branch.
